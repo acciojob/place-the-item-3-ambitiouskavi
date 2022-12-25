@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.flex-container
+  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    height:50vh;
+    width:100wh;
+  }
+.box{
+    width:25vw;
+    
+}
