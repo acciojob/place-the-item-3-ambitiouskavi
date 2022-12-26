@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.flex-container
+.holder
   {
     display: flex;
     flex-wrap: wrap;
@@ -8,8 +8,5 @@
     align-items: center;
     height:50vh;
     width:100wh;
+    font-size: 100px;
   }
-.box{
-    width:25vw;
-    
-}
